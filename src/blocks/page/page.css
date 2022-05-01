@@ -1,0 +1,9 @@
+.page {
+  margin: 0 auto;
+  background-image: url('../../images/background.jpg');
+  background-color: inherit;
+}
+
+* {
+  outline: 1px solid red;
+}
